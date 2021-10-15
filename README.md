@@ -1,7 +1,7 @@
-# GestionUsuario
+# GestionUsuario ✔
 _Aplicativo web para la gestión de solicitudes_
 
-## Pre-requisitos 📋
+## Pre-requisitos 📋 
 
 _Para desplegar el aplicativo es necesario tener el servidor Glassfish_
 
